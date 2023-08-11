@@ -1,8 +1,12 @@
-# React + Vite
+hello my friend
+I made a dapp (application) to try to CLAIM the token that I created on the TESTNETMODE network
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NOTE : THIS IS A TRIAL ONLY
 
-Currently, two official plugins are available:
+IF YOU WANT ME TO JOIN YOUR TEAM
+YOU CAN CONTACT ME ON MY TWITTER : https://twitter.com/Bullek7
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+TWITTER : https://twitter.com/Bullek7
+YT : https://www.youtube.com/channel/UCrh_gN8N-It0dAZyeO6MlFQ
+DISCORD : retrunvoid
+Telegram : @retrunvoid
